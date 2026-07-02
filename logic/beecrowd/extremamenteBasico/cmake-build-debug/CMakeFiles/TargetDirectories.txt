@@ -1,0 +1,3 @@
+C:/Users/thiag/OneDrive/Desktop/study/logic/beecrowd/extremamenteBasico/cmake-build-debug/CMakeFiles/extremamenteBasico.dir
+C:/Users/thiag/OneDrive/Desktop/study/logic/beecrowd/extremamenteBasico/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thiag/OneDrive/Desktop/study/logic/beecrowd/extremamenteBasico/cmake-build-debug/CMakeFiles/rebuild_cache.dir
