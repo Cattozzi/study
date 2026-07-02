@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/thiag/OneDrive/Desktop/study/logic/beecrowd/somaSimples/cmake-build-debug",
+  "command": "C:\\Users\\thiag\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\somaSimples.dir\\main.c.obj -c C:\\Users\\thiag\\OneDrive\\Desktop\\study\\logic\\beecrowd\\somaSimples\\main.c",
+  "file": "C:/Users/thiag/OneDrive/Desktop/study/logic/beecrowd/somaSimples/main.c",
+  "output": "C:/Users/thiag/OneDrive/Desktop/study/logic/beecrowd/somaSimples/cmake-build-debug/CMakeFiles/somaSimples.dir/main.c.obj"
+}
+]
