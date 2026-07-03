@@ -1,0 +1,3 @@
+C:/Users/thiag/OneDrive/Desktop/study/logic/beecrowd/area/cmake-build-debug/CMakeFiles/area.dir
+C:/Users/thiag/OneDrive/Desktop/study/logic/beecrowd/area/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thiag/OneDrive/Desktop/study/logic/beecrowd/area/cmake-build-debug/CMakeFiles/rebuild_cache.dir
