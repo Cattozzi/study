@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/thiag/OneDrive/Desktop/study/logic/beecrowd/calculoSimples/cmake-build-debug",
+  "command": "C:\\Users\\thiag\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\calculoSimples.dir\\main.c.obj -c C:\\Users\\thiag\\OneDrive\\Desktop\\study\\logic\\beecrowd\\calculoSimples\\main.c",
+  "file": "C:/Users/thiag/OneDrive/Desktop/study/logic/beecrowd/calculoSimples/main.c",
+  "output": "C:/Users/thiag/OneDrive/Desktop/study/logic/beecrowd/calculoSimples/cmake-build-debug/CMakeFiles/calculoSimples.dir/main.c.obj"
+}
+]
