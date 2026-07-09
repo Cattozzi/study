@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/thiag/OneDrive/Desktop/study/logic/beecrowd/cedulasPro/cmake-build-debug",
+  "command": "C:\\Users\\thiag\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\cedulasPro.dir\\main.c.obj -c C:\\Users\\thiag\\OneDrive\\Desktop\\study\\logic\\beecrowd\\cedulasPro\\main.c",
+  "file": "C:/Users/thiag/OneDrive/Desktop/study/logic/beecrowd/cedulasPro/main.c",
+  "output": "C:/Users/thiag/OneDrive/Desktop/study/logic/beecrowd/cedulasPro/cmake-build-debug/CMakeFiles/cedulasPro.dir/main.c.obj"
+}
+]
