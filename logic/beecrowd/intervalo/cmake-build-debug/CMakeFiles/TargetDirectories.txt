@@ -1,0 +1,3 @@
+C:/Users/thiag/OneDrive/Desktop/study/logic/beecrowd/intervalo/cmake-build-debug/CMakeFiles/intervalo.dir
+C:/Users/thiag/OneDrive/Desktop/study/logic/beecrowd/intervalo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thiag/OneDrive/Desktop/study/logic/beecrowd/intervalo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
