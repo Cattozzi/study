@@ -16,8 +16,8 @@ Adicionado as opções 5,6,7 no menu switch de acordo com os novos metodos
 //Todos os itens enumerados acima estão comentados no código de acordo com sua numeração
 
 
-**Autor.java
-Adicionado Nacionalidade
+**Autor.java \n
+Adicionado Nacionalidade \n
 Adicionado orphanRemoval=true
 
 **Livro.java
