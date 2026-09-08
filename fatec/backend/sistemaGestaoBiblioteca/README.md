@@ -5,7 +5,7 @@ Aqui está a lista de conteúdo adicionado que não está no pdf da da atividade
 
 -> Criado a classe Record LivroResumo na pasta model -- Recebe os dados filtrados
 
-**DataInitializer.java
+** DataInitializer.java
 
 1.Pipeline Completo de Streams com filter, map e sorted 
 
@@ -20,16 +20,16 @@ Adicionado as opções 5,6,7 no menu switch de acordo com os novos metodos
 //Todos os itens enumerados acima estão comentados no código de acordo com sua numeração
 
 
-**Autor.java 
+** Autor.java 
 
 Adicionado Nacionalidade 
 Adicionado orphanRemoval=true
 
-**Livro.java
+** Livro.java
 
 Adicionado Isbn
 
-*LivroRepository.java
+** LivroRepository.java
 
 Adicionado método para busca pelo autor com o ID ou sem ID
 List<Livro> findByAutorId(Long autorId);
