@@ -16,14 +16,17 @@ Adicionado as opções 5,6,7 no menu switch de acordo com os novos metodos
 //Todos os itens enumerados acima estão comentados no código de acordo com sua numeração
 
 
-**Autor.java \n
-Adicionado Nacionalidade \n
+**Autor.java 
+
+Adicionado Nacionalidade 
 Adicionado orphanRemoval=true
 
 **Livro.java
+
 Adicionado Isbn
 
 *LivroRepository.java
+
 Adicionado método para busca pelo autor com o ID ou sem ID
 List<Livro> findByAutorId(Long autorId);
     List<Livro> findByAutor(Autor autor);
