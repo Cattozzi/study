@@ -32,7 +32,9 @@ Adicionado Isbn
 ** LivroRepository.java
 
 Adicionado método para busca pelo autor com o ID ou sem ID
+
 List<Livro> findByAutorId(Long autorId);
+
     List<Livro> findByAutor(Autor autor);
 
 
