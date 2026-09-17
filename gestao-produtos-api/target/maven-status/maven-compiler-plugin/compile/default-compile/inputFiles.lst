@@ -1,0 +1,11 @@
+C:\Users\thiag\study\backend\gestao-produtos-api\src\main\java\com\universidade\catalogo\api\exception\GlobalExceptionHandler.java
+C:\Users\thiag\study\backend\gestao-produtos-api\src\main\java\com\universidade\catalogo\domain\enums\UnidadeMedida.java
+C:\Users\thiag\study\backend\gestao-produtos-api\src\main\java\com\universidade\catalogo\domain\service\ProdutoService.java
+C:\Users\thiag\study\backend\gestao-produtos-api\src\main\java\com\universidade\catalogo\GestaoProdutosApiApplication.java
+C:\Users\thiag\study\backend\gestao-produtos-api\src\main\java\com\universidade\catalogo\domain\exception\RecursoNaoEncontradoException.java
+C:\Users\thiag\study\backend\gestao-produtos-api\src\main\java\com\universidade\catalogo\domain\repository\ProdutoRepository.java
+C:\Users\thiag\study\backend\gestao-produtos-api\src\main\java\com\universidade\catalogo\domain\enums\TipoProduto.java
+C:\Users\thiag\study\backend\gestao-produtos-api\src\main\java\com\universidade\catalogo\api\dto\ProdutoRequestDTO.java
+C:\Users\thiag\study\backend\gestao-produtos-api\src\main\java\com\universidade\catalogo\api\controller\ProdutoController.java
+C:\Users\thiag\study\backend\gestao-produtos-api\src\main\java\com\universidade\catalogo\api\dto\ProdutoResponseDTO.java
+C:\Users\thiag\study\backend\gestao-produtos-api\src\main\java\com\universidade\catalogo\domain\model\Produto.java

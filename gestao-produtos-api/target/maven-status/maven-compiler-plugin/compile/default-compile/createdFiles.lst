@@ -1,0 +1,5 @@
+com\universidade\catalogo\domain\enums\TipoProduto.class
+com\universidade\catalogo\domain\enums\UnidadeMedida.class
+com\universidade\catalogo\GestaoProdutosApiApplication.class
+com\universidade\catalogo\api\controller\ProdutoController.class
+com\universidade\catalogo\api\dto\ProdutoRequestDTO.class
